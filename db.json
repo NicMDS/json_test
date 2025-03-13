@@ -4,6 +4,6 @@
         "mainColor2": "#003D69",
         "buttonColor": "#FFFFFF",
         "buttonColorHover": "#FFA769",
-        "buttonAnimationHover": true
+        "buttonAnimationHover": false
     }
 }
