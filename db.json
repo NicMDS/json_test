@@ -7,6 +7,6 @@
         "buttonColorHover": "#FFA769",
         "buttonAnimationHover": true,
         "gamesThumbGlow": true,
-        "gamesThumbAnimationHover": true
+        "gamesThumbAnimationHover": "expand"
     }
 }
