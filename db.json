@@ -6,8 +6,8 @@
         "buttonFontColor": "#003D69",
         "buttonColorHover": "#FFA769",
         "buttonAnimationHover": true,
-        "gamesThumbGlow": false,
-        "gamesThumbGlowColor": "#000000FCC",
-        "gamesThumbAnimationHover": "none"
+        "gamesThumbGlow": true,
+        "gamesThumbGlowColor": "#FFFFFFCC",
+        "gamesThumbAnimationHover": "blackOverlay"
     }
 }
