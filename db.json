@@ -8,6 +8,6 @@
         "buttonAnimationHover": true,
         "gamesThumbGlow": false,
         "gamesThumbGlowColor": "#FFFFFFCC",
-        "gamesThumbAnimationHover": "expand"
+        "gamesThumbAnimationHover": "blackOverlay"
     }
 }
