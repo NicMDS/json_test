@@ -9,7 +9,7 @@
         "gamesThumbGlow": true,
         "gamesThumbGlowColor": "#FFFFFFCC",
         "gamesThumbAnimationHover": "blackOverlay",
-        "playPillBackgroundColor": "#00FF00",
-        "playPillFontColor": "#FF0000"
+        "playPillBackgroundColor": "#0000FF",
+        "playPillFontColor": "#FFFFFF"
     }
 }
