@@ -1,15 +1,15 @@
 {
     "colors": {
-        "mainColor1": "#007EE1",
-        "mainColor2": "#003D69",
+        "mainColor1": "#84DB37",
+        "mainColor2": "#456628",
         "buttonColor": "#FFFFFF",
-        "buttonFontColor": "#003D69",
-        "buttonColorHover": "#FFA769",
-        "buttonAnimationHover": true,
-        "gamesThumbGlow": true,
+        "buttonFontColor": "#456628",
+        "buttonColorHover": "#646DBD",
+        "buttonAnimationHover": false,
+        "gamesThumbGlow": false,
         "gamesThumbGlowColor": "#FFFFFFCC",
         "gamesThumbAnimationHover": "blackOverlay",
-        "playPillBackgroundColor": "#0061BD",
+        "playPillBackgroundColor": "#9C482C",
         "playPillFontColor": "#FFFFFF"
     }
 }
