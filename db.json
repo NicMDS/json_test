@@ -5,10 +5,10 @@
         "buttonColor": "#FFFFFF",
         "buttonFontColor": "#003D69",
         "buttonColorHover": "#FFA769",
-        "buttonAnimationHover": true,
+        "buttonAnimationHover": false,
         "gamesThumbGlow": true,
         "gamesThumbGlowColor": "#FFFFFFCC",
-        "gamesThumbAnimationHover": "blackOverlay",
+        "gamesThumbAnimationHover": "expand",
         "playPillBackgroundColor": "#0000FF",
         "playPillFontColor": "#FFFFFF"
     }
