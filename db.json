@@ -10,6 +10,9 @@
         "gamesThumbGlowColor": "#FFFFFFCC",
         "gamesThumbAnimationHover": "blackOverlay",
         "playPillBackgroundColor": "#0000FF",
-        "playPillFontColor": "#FFFFFF"
+        "playPillFontColor": "#FFFFFF",
+        
+        "loginIntroAnimation": "none",
+        "loginLinkColor": "#007EE1"
     }
 }
