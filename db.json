@@ -11,8 +11,7 @@
         "gamesThumbAnimationHover": "blackOverlay",
         "playPillBackgroundColor": "#0000FF",
         "playPillFontColor": "#FFFFFF",
-        
         "loginIntroAnimation": "none",
-        "loginLinkColor": "#007EE1"
+        "loginLinkColor": "#FC2803"
     }
 }
