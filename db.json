@@ -11,6 +11,7 @@
         "gamesThumbAnimationHover": "blackOverlay",
         "playPillBackgroundColor": "#0000FF",
         "playPillFontColor": "#FFFFFF",
+        "loginMobileHeaderColor": "#1C1C1C",
         "loginIntroAnimation": "fullExpand",
         "loginLinkColor": "#007EE1"
     }
